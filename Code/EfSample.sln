@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfSample", "EfSample\EfSample.csproj", "{2FF7BB91-3261-4E4B-A142-B8D7D37970EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD74C151-25BE-4227-825F-2CEAB85A09D6}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF7BB91-3261-4E4B-A142-B8D7D37970EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF7BB91-3261-4E4B-A142-B8D7D37970EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF7BB91-3261-4E4B-A142-B8D7D37970EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF7BB91-3261-4E4B-A142-B8D7D37970EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7924FB68-C351-4B04-870F-1DA9DF110F7B}
+	EndGlobalSection
+EndGlobal
